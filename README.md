@@ -18,9 +18,10 @@ First,I take decision what i can developed.
 I build a prototype according my prototype just like  a demo.
 
 ## (iv)Customer Evaluation of prototype:
-if farmer and agriculturist accept this prototype and if this prototype fullfill their requirement then we continue our development like waterfal model
+Customer(Agriculturist & farmer) evaluated this prototype.If they satisfied with this prototype
+and this prototype can fulfill their requirement. this is  accpeted by customers.
 
-# (v)
+## (v)
 
 
 
