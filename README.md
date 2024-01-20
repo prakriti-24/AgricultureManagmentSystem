@@ -40,7 +40,7 @@ In this development process,farmer can be solved  any kinds of problems by agric
 ## Testing
 QA and testing team may find some bugs/defects which they communicate to developers. The development team fixes the bug and send back to QA for a re-test. This process continues until the software is bug-free, stable, and working according to the business needs of that system.
 
-## Maintainence
+## (ix)Maintainence
 Once the system is deployed, and customers start using the developed system.
 
 
