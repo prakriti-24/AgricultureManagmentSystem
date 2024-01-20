@@ -2,7 +2,7 @@
 
 ![photo_6149870771456031333_y](https://github.com/prakriti-24/AgricultureManagmentSystem/assets/156267945/fe2d5292-8d21-4c29-af5f-08653bab84a4)
 
-##PROJECT:Agriculture mangament system
+# PROJECT:Agriculture mangament system
 
 For the project "Agriculture mangament system," a suitable Software Development Life Cycle (SDLC) model could be the Prototype Model.For this  prototype model,First , it can be designed as a prototype..Then the users can check whether this can be met their requirement.if it can be satisfied with their requirement then it developed.If not satisfied,then it can be modified or changed  considering user expectation.
 ![Agri](https://github.com/prakriti-24/AgricultureManagmentSystem/assets/156267945/4d558d1f-e5ca-4881-9461-e3a684e6f212)
