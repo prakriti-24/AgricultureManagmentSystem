@@ -14,13 +14,13 @@ Identify the key features and functionalities of the Agriculture managment syste
 # (ii)Quick Decision:
 First,I take decision what i can developed.
 
-#(iii)Buid a prototype:
+# (iii)Buid a prototype:
 I build a prototype according my prototype just like  a demo.
 
-#(iv)Customer Evaluation of prototype:
+# (iv)Customer Evaluation of prototype:
 if farmer and agriculturist accept this prototype and if this prototype fullfill their requirement then we continue our development like waterfal model
 
-#(v)
+# (v)
 
 
 
