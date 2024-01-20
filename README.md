@@ -7,8 +7,8 @@
 For the project "Agriculture mangament system," a suitable Software Development Life Cycle (SDLC) model could be the Prototype Model.For this  prototype model,First , it can be designed as a prototype..Then the users can check whether this can be met their requirement.if it can be satisfied with their requirement then it developed.If not satisfied,then it can be modified or changed  considering user expectation.
 ![Agri](https://github.com/prakriti-24/AgricultureManagmentSystem/assets/156267945/4d558d1f-e5ca-4881-9461-e3a684e6f212)
 
-## STEPS of protype model
-# (i).Requirement Gathering:
+# STEPS of protype model
+##(i)Requirement Gathering:
 Identify the key features and functionalities of the Agriculture managment system, including user roles, content delivery, assessment, and user management.
 
 # (ii)Quick Decision:
