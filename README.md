@@ -23,7 +23,7 @@ Customer(Agriculturist & farmer) evaluated this prototype.If they satisfied with
 and this prototype can fulfill their requirement. this is  accpeted by customers.
 
 ## (v)Refine requirement incorporation customer suggestion
-This prototype can not fulfill their requirement,then customers tell them about their requirement.
+If This prototype can not fulfill their requirement,then customers tell them about their requirement.
 ## (vi)Accepted by customer
 If This prototype can fulfill their requirement. this is  accpeted by customers.
 ## (viii)Design:
