@@ -8,7 +8,18 @@ For the project "Agriculture mangament system," a suitable Software Development 
 ![Agri](https://github.com/prakriti-24/AgricultureManagmentSystem/assets/156267945/4d558d1f-e5ca-4881-9461-e3a684e6f212)
 
 ## STEPS of protype model
-(i)Quick Decision:
+(i)Requirement Gathering:
+Identify the key features and functionalities of the Agriculture managment system, including user roles, content delivery, assessment, and user management.
+
+(ii)Quick Decision:
+First,I take decision what i can developed.
+
+(iii)Buid a prototype:
+I build a prototype according my prototype just like  a demo.
+
+(iv)Customer Evaluation of prototype:
+if farmer and agriculturist accept this prototype and if this prototype fullfill their requirement then we continue 
+
 
 
 
