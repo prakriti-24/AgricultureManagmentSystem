@@ -37,6 +37,11 @@ Admin can communicate between farmer and agriculturist.Here, admin is the media 
 ## Farmer:
 In this development process,farmer can be solved  any kinds of problems by agriculturist like their cultivating process,how much prestesides they should used,reducing diseases etc.They can also review about their benefit.They can be known about new invented crops and then cultivate following their instruction.If they they get benefit,they can be review also.
 
+## Testing
+QA and testing team may find some bugs/defects which they communicate to developers. The development team fixes the bug and send back to QA for a re-test. This process continues until the software is bug-free, stable, and working according to the business needs of that system.
+
+## Maintainence
+Once the system is deployed, and customers start using the developed system.
 
 
 
